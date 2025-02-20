@@ -1,0 +1,7 @@
+[[routes]]
+path = "/users"
+endpoint_url = "http://localhost:8001"
+
+[[routes]]
+path = "/orders"
+endpoint_url = "http://localhost:8002"
