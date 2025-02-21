@@ -4,4 +4,4 @@ endpoint_url = "http://localhost:8001"
 
 [[routes]]
 path = "/orders"
-endpoint_url = "http://localhost:8002"
+endpoint_url = "https://docs.rs/reqwest/latest/reqwest/"
