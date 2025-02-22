@@ -9,3 +9,4 @@ axum = "0.8.1"
 reqwest = "0.12.12"
 tokio = { version = "1.43.0", features = ["full"] }
 toml = "0.8.20"
+notify = "8.0.0"
